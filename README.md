@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1> Hi there. I'm Lucas Sousa! 👋</h1>
 
-<!--
-**lucasousa/lucasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasousa54/)](https://www.instagram.com/lucasousa54/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasousa@ufpi.edu.br)](mailto:lucasousa@ufpi.edu.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Thanks for visiting! :sweat_smile:</h2>
+
+#### I'm 21 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
+
+- :earth_americas: Piaui, Brazil
+- :student: Information Systems at UFPI
+- :technologist: I’m currently working with web development (Django and Django Rest Framework)
+- :technologist: I’m currently learning Django Rest Framework and Next.js
+
+
+<div align="center">
+
+![github stats](https://github-readme-stats.vercel.app/api?username=lucasousa&show_icons=true&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasousa&layout=compact&theme=dark)
+
+</div>
+
