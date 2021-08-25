@@ -6,19 +6,24 @@
 
 <h2>Thanks for visiting! :sweat_smile:</h2>
 
-#### I'm 21 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
+- 💬 I'm 21 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
 
-- :earth_americas: Piaui, Brazil
+- :earth_americas: Novo Oriente, Piaui, Brazil
 - :student: Information Systems at UFPI
-- :technologist: I’m currently working with web development (Django and Django Rest Framework)
-- :technologist: I’m currently learning Django Rest Framework and Next.js
+- 📫 How to reach me **lucas103101@gmail.com**
 
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="linguagem c"  width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma css" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasousa&show_icons=true&layout=compact&theme=black" alt="lucas sousa"/> 
+</p>
 
-<div align="center">
-
-![github stats](https://github-readme-stats.vercel.app/api?username=lucasousa&show_icons=true&layout=compact&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasousa&layout=compact&theme=dark)
-
-</div>
 
