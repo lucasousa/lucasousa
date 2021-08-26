@@ -1,6 +1,7 @@
 <h1> Hi there. I'm Lucas Sousa! 👋</h1>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasousa54/)](https://www.instagram.com/lucasousa54/)
+[![Instagram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/Lucasousa12)](https://telegram.me/Lucasousa12)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasousa@ufpi.edu.br)](mailto:lucasousa@ufpi.edu.br)
 
 
