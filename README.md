@@ -1,4 +1,4 @@
-<h1> Hi there. I'm Lucas Sousa! img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hi there. I'm Lucas Sousa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasousa54/)](https://www.instagram.com/lucasousa54/)
 [![Instagram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/lucasousa54)](https://telegram.me/lucasousa54)
@@ -7,7 +7,7 @@
 
 <h2>Thanks for visiting! :sweat_smile:</h2>
 
-- 🔭 I’m currently working on [Worc](https:worc.com.br)
+- 🔭 I’m currently working on [Worc](https://worc.com.br)
 - 💬 I'm 21 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
 - :earth_americas: Novo Oriente, Piaui, Brazil
 - :student: Information Systems at UFPI
