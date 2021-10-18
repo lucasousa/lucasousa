@@ -27,9 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="linux" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="linux" width="30" height="30"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasousa&show_icons=true&layout=compact&theme=black" alt="lucas sousa"/> 
-</p>
-
+<!--
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasousa&show_icons=true&layout=compact&theme=black" alt="lucas sousa"/> 
+  </p>
+-->
 
