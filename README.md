@@ -7,7 +7,6 @@
 
 <h3>About me</h3>
 
-- 🔭 I’m currently working on **[Worc](https://worc.com.br)**
 - 💬 I'm 22 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
 - :earth_americas: Novo Oriente, Piaui, Brazil
 - :student: Information Systems at UFPI
