@@ -7,7 +7,7 @@
 
 <h3>About me</h3>
 
-- 💬 I'm 23 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
+- 💬 I'm 24 years old. I'm a python django developer and cloud computing researcher with a focus on multiple clouds
 - :earth_americas: Picos, Piaui, Brazil
 - :student: Information Systems at UFPI
 - 📫 How to reach me **lucas103101@gmail.com**
